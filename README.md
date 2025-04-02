@@ -59,7 +59,7 @@
 
 ---
 
-## 🔬 Select Projects
+## 🔬 Projects
 
 1. **Breast Cancer Detection Application**  
    - Created a logistic regression model in **Python** with **Scikit-learn**, achieving a **96% accuracy** rate.  
