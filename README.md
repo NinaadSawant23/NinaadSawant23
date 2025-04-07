@@ -85,4 +85,4 @@
 
 
 
-<p align="center">Thanks for visiting! Let's build something amazing with data. 🛠️</p>
+<p align="center">Thanks for visiting! Let's build something amazing together. 🛠️</p>
