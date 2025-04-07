@@ -3,7 +3,6 @@
   <em>Master's Student in Computer Science at Clark University</em>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -17,7 +16,6 @@
 - 🛠️ Driven by building scalable, robust solutions for data pipelines and microservices.
 - 🌍 Based in Worcester, MA - open to collaborating on projects globally.
 
----
 
 ## 💡 Key Skills & Technologies
 
@@ -38,7 +36,7 @@
 - **RESTful Services**: Java Spring Boot, Python (Flask/FastAPI)
 - **Testing**: Postman (for Python APIs)
 
----
+
 
 ## 💼 Professional Experience
 
@@ -57,7 +55,7 @@
 - Implemented secure **JWT-based authentication** for user management.  
 - Collaborated with clients to ensure brand identity and technical requirements were met.  
 
----
+
 
 ## 🔬 Projects
 
@@ -79,14 +77,12 @@
    - Explored large-scale soccer data using **Spark** and visualized insights in **Tableau**.  
    - Showcased how data engineering enables advanced analytics for strategic decision-making.
 
----
-
 ## 📫 Contact & Connect
 
 - **Email**: ninaadsawant23@gmail.com  
-- **LinkedIn**: [Ninaad-Sawant](https://www.linkedin.com/in/ninaadsawant/)  
-- **(Optional)** Phone: 774-420-0444  
+- **LinkedIn**: [Ninaad-Sawant](https://www.linkedin.com/in/ninaadsawant/)
+- Phone: 774-420-0444  
 
----
+
 
 <p align="center">Thanks for visiting! Let's build something amazing with data. 🛠️</p>
