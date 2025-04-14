@@ -59,23 +59,20 @@
 
 ## 🔬 Projects
 
-1. **Breast Cancer Detection Application**  
+1. **Movie Recommendation System**  
+   - Engineered a high-performance Movie Recommendation System using Python and Streamlit, the system processes a dataset of over 4,800 movies and delivers five personalized recommendations with an average query response time of under 1.5 seconds.
+   - Optimized API Integration & Data Processing: Integrated the TMDb API to dynamically retrieve movie details (posters, genres, overviews) with a 95% success rate, leveraging a precomputed similarity matrix that improved recommendation relevance by approximately 85%.
+  
+2. **GenAI LinkedIn Post Generator**
+   - Developed a LinkedIn post generator using LLaMA 3 (Groq API), LangChain, and Streamlit, with a RandomForest model (R² ≈ 0.90) predicting engagement from NLP features (TextBlob, pandas)
+
+2. **Breast Cancer Detection Application**  
    - Created a logistic regression model in **Python** with **Scikit-learn**, achieving a **96% accuracy** rate.  
    - Illustrated end-to-end project steps-data ingestion, feature engineering, model training, and minimal UI for inference.
-
-2. **Real Estate Price Prediction**  
-   - Leveraged **Scikit-learn** for predictive modeling, evaluating multiple regression algorithms.  
-   - Integrated **Spark** for data cleaning and pre-processing of large real estate datasets.  
-   - Demonstrated how data pipelines can fuel ML workflows for end-to-end analytics.
   
 3. **GoFoods - Online Food Delivery Platform** 
    - Designed and developed a full-stack restaurant website using React with a responsive, user-friendly interface.
-   - Allowing users to browse menus, select items and place online orders seamlessly.  
    - Implemented a MongoDB database to store restaurant data and orders and built RESTful APIs using Express and Node.js to handle authentication, orders and live updates 
-
-4. **FIFA Dataset Analysis**  
-   - Explored large-scale soccer data using **Spark** and visualized insights in **Tableau**.  
-   - Showcased how data engineering enables advanced analytics for strategic decision-making.
 
 ## 📫 Contact & Connect
 
