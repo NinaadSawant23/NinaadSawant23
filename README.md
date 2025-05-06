@@ -8,7 +8,7 @@
 
 - 🚀 Pursuing a Master of Science in Computer Science at **Clark University** (Expected May 2025).
 - 💼 Previously worked at **Infosys** as a Digital Specialist Engineer, focusing on:
-  - **Data Engineering** (ETL pipelines, HDFS, Elasticsearch)
+  - **Data Engineering** (ETL pipelines, HDFS, Amazon S3, Elasticsearch)
   - **Big Data Processing** (Scala Spark, PySpark)
   - **API Development & Integration** (Java Spring Boot, Python)
   - **CI/CD** (Jenkins) & **Automation** (Apache Airflow, Control-M)
