@@ -78,7 +78,7 @@
 
 - **Email**: ninaadsawant23@gmail.com  
 - **LinkedIn**: [Ninaad-Sawant](https://www.linkedin.com/in/ninaadsawant/)
-- Phone: 774-420-0444  
+- **Phone**: 774-420-0444  
 
 
 
