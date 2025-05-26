@@ -42,7 +42,7 @@
 
 ### Infosys Limited (Pune, India)  
 **Digital Specialist Engineer (May 2021 - Nov 2023)**  
-- Built and maintained **large-scale ETL pipelines** using **Scala Spark/PySpark**, integrating data into **HDFS** and **Elasticsearch**.  
+- Built and maintained **large-scale ETL pipelines** using **Scala Spark/PySpark**, integrating data into **HDFS**, **Amazon S3** and **Elasticsearch**.  
 - Developed robust **RESTful APIs** (Spring Boot, Python) to facilitate seamless data access for global clients.  
 - Automated API testing with Postman, reducing response times by 80% through performance tuning and code optimizations.  
 - Established **CI/CD pipelines** with Jenkins, ensuring quick and reliable releases.  
@@ -66,13 +66,11 @@
 2. **GenAI LinkedIn Post Generator**
    - Developed a LinkedIn post generator using LLaMA 3 (Groq API), LangChain, and Streamlit, with a RandomForest model (R² ≈ 0.90) predicting engagement from NLP features (TextBlob, pandas)
 
-2. **Breast Cancer Detection Application**  
+3. **Breast Cancer Detection Application**  
    - Created a logistic regression model in **Python** with **Scikit-learn**, achieving a **96% accuracy** rate.  
    - Illustrated end-to-end project steps-data ingestion, feature engineering, model training, and minimal UI for inference.
   
-3. **GoFoods - Online Food Delivery Platform** 
-   - Designed and developed a full-stack restaurant website using React with a responsive, user-friendly interface.
-   - Implemented a MongoDB database to store restaurant data and orders and built RESTful APIs using Express and Node.js to handle authentication, orders and live updates 
+Many more...
 
 ## 📫 Contact & Connect
 
