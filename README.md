@@ -61,16 +61,14 @@
 
 1. **Movie Recommendation System**  
    - Engineered a high-performance Movie Recommendation System using Python and Streamlit, the system processes a dataset of over 4,800 movies and delivers five personalized recommendations with an average query response time of under 1.5 seconds.
-   - Optimized API Integration & Data Processing: Integrated the TMDb API to dynamically retrieve movie details (posters, genres, overviews) with a 95% success rate, leveraging a precomputed similarity matrix that improved recommendation relevance by approximately 85%.
-  
+     
 2. **GenAI LinkedIn Post Generator**
-   - Developed a LinkedIn post generator using LLaMA 3 (Groq API), LangChain, and Streamlit, with a RandomForest model (R² ≈ 0.90) predicting engagement from NLP features (TextBlob, pandas)
+   - Developed a LinkedIn post generator using LLaMA 3 (Groq API), LangChain, and Streamlit, with a RandomForest model (R² = 0.90) predicting engagement from NLP features (TextBlob, pandas)
 
 3. **Breast Cancer Detection Application**  
-   - Created a logistic regression model in **Python** with **Scikit-learn**, achieving a **96% accuracy** rate.  
-   - Illustrated end-to-end project steps-data ingestion, feature engineering, model training, and minimal UI for inference.
+   - Created a logistic regression model in **Python** with **Scikit-learn**, achieving a **96% accuracy** rate. Illustrated end-to-end project steps-data ingestion, feature engineering, model training, and minimal UI for inference.
   
-Many more...
+[Many more...](https://github.com/NinaadSawant23?tab=repositories)
 
 ## 📫 Contact & Connect
 
