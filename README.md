@@ -12,7 +12,7 @@
   - **Big Data Processing** (Scala Spark, PySpark)
   - **API Development & Integration** (Java Spring Boot, Python)
   - **CI/CD** (Jenkins) & **Automation** (Apache Airflow, Control-M)
-- 💡 Keen interest in **Software Development**, **Machine Learning** and **Advanced Analytics**, bridging data engineering with predictive modeling.
+- 💡 Keen interest in **Big Data**, **Advanced Analytics** and **Machine Learning**, bridging data engineering with predictive modeling.
 - 🛠️ Driven by building scalable, robust solutions for data pipelines and microservices.
 - 🌍 Based in Worcester, MA - open to collaborating on projects globally.
 
@@ -26,15 +26,19 @@
 **Data Engineering:**
 - **Frameworks**: Spark (Scala/PySpark), Hive  
 - **Data Stores**: HDFS, Elasticsearch, MySQL, PostgreSQL, MongoDB  
-- **Orchestration**: Apache Airflow, Control-M, Jenkins (CI/CD)
+- **Orchestration**: Apache Airflow, Control-M, AWS Glue, Jenkins (CI/CD)
 
 **Machine Learning & Analytics:**
 - **Libraries**: Scikit-learn, Pandas, NumPy  
-- **Visualization**: Tableau, (familiarity with Matplotlib/Plotly)
+- **Visualization**: Tableau, Power BI, Matplotlib, Plotly
 
 **API & Backend Development:**
 - **RESTful Services**: Java Spring Boot, Python (Flask/FastAPI)
 - **Testing**: Postman (for Python APIs)
+
+**Cloud COmputing:**
+- **AWS**: S3, RedShift, Glue, IAM, Crawler, QuickSight, EC2
+- **Azure**: Data Factory, Synapse, Databricks, ADLS Gen2
 
 
 
