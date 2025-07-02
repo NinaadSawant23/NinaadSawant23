@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ninaad Sawant! 👋</h1>
 <p align="center">
-  <em>Data Engineer | Python, Pyspark, Scala, SQL | ETL, ELT, Airflow | AWS, Azure</em>
+  Data Engineer | Python, Pyspark, Scala, SQL, Kafka | ETL, ELT, Airflow | AWS, Azure, Snowflake | Data modeling, Visualization
 </p>
 
 
