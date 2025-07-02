@@ -32,6 +32,7 @@
 **Cloud Computing:**
 - **AWS**: S3, RedShift, Glue, IAM, Crawler, QuickSight, EC2
 - **Azure**: Data Factory, Synapse, Databricks, ADLS Gen2
+- **GCP**: BigQuery, Cloud Storage
 
 **Machine Learning & Analytics:**
 - **Libraries**: Scikit-learn, Pandas, NumPy  
