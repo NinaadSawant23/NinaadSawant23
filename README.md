@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Pursuing a Master of Science in Computer Science at **Clark University** (Expected May 2025).
+- 🚀 Recent graduate, Master of Science in Computer Science at **Clark University** (May 2025).
 - 💼 Previously worked at **Infosys** as a Digital Specialist Engineer, focusing on:
   - **Data Engineering** (ETL pipelines, HDFS, Amazon S3, Elasticsearch)
   - **Big Data Processing** (Scala Spark, PySpark)
