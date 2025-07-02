@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ninaad Sawant! 👋</h1>
 <p align="center">
-  <em>Master's Student in Computer Science at Clark University</em>
+  <em>Master's Of Computer Science at Clark University</em>
 </p>
 
 
