@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ninaad Sawant! 👋</h1>
 <p align="center">
-  <em>Master's Of Computer Science at Clark University</em>
+  <em>Data Engineer | Python, Pyspark, Scala, SQL | ETL, ELT, Airflow | AWS, Azure</em>
 </p>
 
 
